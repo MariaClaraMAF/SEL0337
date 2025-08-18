@@ -1,0 +1,53 @@
+    1  echo "INÍCIO DA PRÁTICA 1"
+    2  ls
+    3  pwd
+    4  mkdir SEL0337
+    5  cd SEL0337/
+    6  pwd
+    7  mkdir pratica_1
+    8  cd pratica_1/
+    9  cd ..
+   10  ls
+   11  cd pratica_1/
+   12  touch helloworld.txt
+   13  nano helloworld.txt 
+   14  cat helloworld.txt 
+   15  find /home/maria/Documentos/Repositorios/SEL0337/SEL0337/pratica_1/ -name '*.txt'
+   16  grep 13676951 helloworld.txt & grep 14655150 helloworld.txt 
+   17  cp helloworld.txt copy.txt
+   18  ls
+   19  mv copy.txt ..
+   20  rm helloworld.txt 
+   21  cd ..
+   22  rm -r pratica_1/
+   23  history > backup_historico.txt
+
+            .-/+oossssoo+/-.               maria@maria 
+        `:+ssssssssssssssssss+:`           ----------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.6 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: Nitro ANV15-51 V1.26 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-139-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 48 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 3080 (dpkg), 10 (snap) 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.0.17 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: 13th Gen Intel i7-13620H (16) @ 4.700GHz 
+    .ossssssssssssssssssdMMMNysssso.       GPU: Intel Device a7a8 
+      -+sssssssssssssssssyyyssss+-         GPU: NVIDIA 01:00.0 NVIDIA Corporation Device 28a1 
+        `:+ssssssssssssssssss+:`           Memory: 4151MiB / 15692MiB 
+            .-/+oossssoo+/-.
+                                                                   
+                                                                   
+
+total 8
+-rw-rw-r-- 1 maria maria    9 ago 18 17:02 README.md
+drwxrwxr-x 2 maria maria 4096 ago 18 17:14 SEL0337
+
+Explicação sobre os acima
+
