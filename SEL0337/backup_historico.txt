@@ -43,11 +43,14 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter
         `:+ssssssssssssssssss+:`           Memory: 4151MiB / 15692MiB 
             .-/+oossssoo+/-.
                                                                    
-                                                                   
+* O comando neofetch foi responsável por printar essas informações que são de grande importância como a distro do Linux utilizada além de outras informações *                                   
 
 total 8
 -rw-rw-r-- 1 maria maria    9 ago 18 17:02 README.md
 drwxrwxr-x 2 maria maria 4096 ago 18 17:14 SEL0337
 
-Explicação sobre os acima
+Explicação sobre o segundo item apresentado acima:
+O primeiro caractere denota se o item é um diretório ou um arquivo. No caso, como se tem a letra 'd' é um diretório.
+Seguindo, é possível observar uma combinação de r, w, x e -, "ler", "escrever", "executar" e "permissão especificada não foi concedida".
+As próximas três letras são as permissões para o "grupo" do qual faz parte e as últimas são permissões para todos os outros.
 
