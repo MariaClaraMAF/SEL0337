@@ -1,5 +1,8 @@
 # SEL0337 - Projetos em Sistemas Embarcados
 
+## Maria Clara Monteiro de Almeida Ferreira - 13676951
+## Júlio Maculan Maciel - 14655150
+
 Este repositório é destinado às práticas referentes à matéria SEL0337 - Projetos em Sistemas Embarcados
 
 ## Este Repositório apresenta arquivos referentes à Prática 1 (SEL0337) e à Prática 5
@@ -15,4 +18,8 @@ Foi criado o blink.service, um serviço que consistia em fazer o led piscar quan
 O vídeo abaixo mostra o funcionamento do serviço, inicialmente, foi testado de forma "manual" e não apenas quando a Raspberry Pi fosse ligada, de forma a garantir funcionamento do serviço e após isso, foi feito como descrito acima.
 
 https://github.com/user-attachments/assets/2b9dd03a-411f-44b5-bf97-735945dac54b
+
+### Submissão no GIT
+
+Após isso, como solicitado pela prática, os códigos foram submetidos neste repositório de Github assim como o log de comandos. É importante ressaltar que como este repositório já havia sido criado há mais tempo que a prática, os comandos podem ser um poucos diferentes do esperado pelo roteiro, mas todo o processo foi realizado. 
 
