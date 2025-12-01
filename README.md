@@ -11,3 +11,8 @@ O projeto consiste em criar um serviço que inicia um programa .py quando a Rasp
 
 ### Implementação:
 
+Foi criado o blink.service, um serviço que consistia em fazer o led piscar quando a Raspberry Pi fosse iniciada e rodasse o código de pwm.py quando fosse pedido para parar a execução do serviço. 
+O vídeo abaixo mostra o funcionamento do serviço, inicialmente, foi testado de forma "manual" e não apenas quando a Raspberry Pi fosse ligada, de forma a garantir funcionamento do serviço e após isso, foi feito como descrito acima.
+
+https://github.com/user-attachments/assets/2b9dd03a-411f-44b5-bf97-735945dac54b
+
